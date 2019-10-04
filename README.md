@@ -6,4 +6,4 @@ So in this world of intelligent machines why only humans can generate text.Our m
 
 Here I use Lstms to make a text generator using keras framework.....
 
-Dataset:Gutenberg
+Dataset:Gutenberg. 
