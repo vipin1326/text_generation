@@ -4,6 +4,6 @@ We humans think use lots of text data in our daily life. If we want to talk to o
 
 So in this world of intelligent machines why only humans can generate text.Our machines can also generate text and a lot more with that text ....
 
-Here I use Lstms to make a text generator using keras framework.....
+Here I use Lstms to make a text generator using keras framework
 
 Dataset:Gutenberg
