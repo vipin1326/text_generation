@@ -1,4 +1,4 @@
-# Text_generation
+# Text-generation
 
 We humans think use lots of text data in our daily life. If we want to talk to our friend we send him a message or what we if we have to write about something that wilw be in text format.
 
